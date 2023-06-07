@@ -1,0 +1,12 @@
+.btns {
+    background-color: rgb(227, 187, 255);
+    padding: 10%;
+}
+
+.btn1{
+    background-color: peru;
+    padding: 2%;
+    /* margin-left: 5px; */
+    margin: 1%;
+    border: solid black;
+}
